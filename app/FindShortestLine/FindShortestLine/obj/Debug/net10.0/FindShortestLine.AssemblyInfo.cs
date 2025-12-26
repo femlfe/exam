@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindShortestLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5df485b831c248f86ecd44682af0c757758a602d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dcea1bc63d95f1a23435f5441df64e8bd156082")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindShortestLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindShortestLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

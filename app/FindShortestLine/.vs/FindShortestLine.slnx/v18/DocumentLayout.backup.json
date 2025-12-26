@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B95E957-6812-4E07-A833-8A2150D51150}|AppTesting\\AppTesting.csproj|d:\\users\\stu-ipsp122\\source\\repos\\exam\\app\\findshortestline\\apptesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B95E957-6812-4E07-A833-8A2150D51150}|AppTesting\\AppTesting.csproj|solutionrelative:apptesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|d:\\users\\stu-ipsp122\\source\\repos\\exam\\app\\findshortestline\\findshortestline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|solutionrelative:findshortestline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|d:\\users\\stu-ipsp122\\source\\repos\\exam\\app\\findshortestline\\findshortestline\\classes\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|solutionrelative:findshortestline\\classes\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|d:\\users\\stu-ipsp122\\source\\repos\\exam\\app\\findshortestline\\findshortestline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0073987C-698C-0B08-19AF-30655893AD6E}|FindShortestLine\\FindShortestLine.csproj|solutionrelative:findshortestline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B95E957-6812-4E07-A833-8A2150D51150}|AppTesting\\AppTesting.csproj|d:\\users\\stu-ipsp122\\source\\repos\\exam\\app\\findshortestline\\apptesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B95E957-6812-4E07-A833-8A2150D51150}|AppTesting\\AppTesting.csproj|solutionrelative:apptesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\AppTesting\\UnitTest1.cs",
               "RelativeDocumentMoniker": "AppTesting\\UnitTest1.cs",
               "ToolTip": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\AppTesting\\UnitTest1.cs",
               "RelativeToolTip": "AppTesting\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T08:32:28.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\FindShortestLine\\Program.cs",
+              "RelativeDocumentMoniker": "FindShortestLine\\Program.cs",
+              "ToolTip": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\FindShortestLine\\Program.cs",
+              "RelativeToolTip": "FindShortestLine\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T07:18:05.987Z",
               "EditorCaption": ""
             },
             {
@@ -45,22 +58,9 @@
               "RelativeDocumentMoniker": "FindShortestLine\\Classes\\Graph.cs",
               "ToolTip": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\FindShortestLine\\Classes\\Graph.cs",
               "RelativeToolTip": "FindShortestLine\\Classes\\Graph.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwB8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T07:26:24.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\FindShortestLine\\Program.cs",
-              "RelativeDocumentMoniker": "FindShortestLine\\Program.cs",
-              "ToolTip": "D:\\Users\\stu-ipsp122\\source\\repos\\exam\\app\\FindShortestLine\\FindShortestLine\\Program.cs",
-              "RelativeToolTip": "FindShortestLine\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T07:18:05.987Z",
               "EditorCaption": ""
             }
           ]
