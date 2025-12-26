@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="AppTesting/AppTesting.csproj" Id="6b95e957-6812-4e07-a833-8a2150d51150" />
   <Project Path="FindShortestLine/FindShortestLine.csproj" />
 </Solution>
