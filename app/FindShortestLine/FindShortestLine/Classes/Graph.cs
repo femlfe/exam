@@ -7,6 +7,7 @@ namespace FindShortestLine.Classes
     public class Graph
     {
         public static int n;
+        public double[,] incidenceMatrix;
 
         public Graph(int _n)
         {
@@ -51,7 +52,16 @@ namespace FindShortestLine.Classes
             return dist;
         }
 
-        public double[,] CreateGraph()
+        public double ComparePoints(int firstPoint, int secondpoint)
+        {
+
+            double[] allShortestDistance = Dijkstra(incidenceMatrix, firstPoint);
+
+            return allShortestDistance[secondpoint];
+        }
+
+
+        public void CreateGraph()
         {
             double[,] matrix = new double[n,n];
 
@@ -59,28 +69,42 @@ namespace FindShortestLine.Classes
             {
                 for(int j = i; j<n; j++)
                 {
-                    Console.WriteLine($"Введите расстояние от точки {i+1} до точки {j+1}\n\tЕсли точки не связаны введите 0");
-
-                    double distance = 0;
-                    bool rightInput = false;
-
-                    string input = Console.ReadLine();
-                    rightInput = double.TryParse(input, out distance);
-
-                    while (!rightInput)
+                    if(i == j)
                     {
-                        Console.WriteLine($"Вы допустили ошибку!");
-                        Console.WriteLine($"Введите расстояние от точки {i + 1} до точки {j + 1}\n\tЕсли точки не связаны введите 0");
-
-                        input = Console.ReadLine();
-                        rightInput = double.TryParse(input, out distance);
+                        matrix[i, j] = 0;
                     }
+                    else
+                    {
+                        Console.WriteLine($"Введите расстояние от точки {i + 1} до точки {j + 1}\n\tЕсли точки не связаны введите -1");
 
-                    matrix[i,j] = distance;
+                        double distance = 0;
+                        bool rightInput = false;
+
+                        string input = Console.ReadLine();
+                        rightInput = double.TryParse(input, out distance);
+
+                        while (!rightInput)
+                        {
+                            Console.WriteLine($"Вы допустили ошибку!");
+                            Console.WriteLine($"Введите расстояние от точки {i + 1} до точки {j + 1}\n\tЕсли точки не связаны введите -1");
+
+                            input = Console.ReadLine();
+                            rightInput = double.TryParse(input, out distance);
+
+
+
+                        }
+                        if (distance < 0)
+                            distance = double.MaxValue;
+
+                        matrix[i, j] = distance;
+                        matrix[j, i] = distance;
+                    }
+                       
                 }
             }
 
-            return matrix;
+            incidenceMatrix = matrix;
         }
     }
 }
