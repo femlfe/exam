@@ -1,0 +1,15 @@
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\bin\Debug\net10.0\FindShortestLine.exe
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\bin\Debug\net10.0\FindShortestLine.deps.json
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\bin\Debug\net10.0\FindShortestLine.runtimeconfig.json
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\bin\Debug\net10.0\FindShortestLine.dll
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\bin\Debug\net10.0\FindShortestLine.pdb
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.AssemblyInfoInputs.cache
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.AssemblyInfo.cs
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.csproj.CoreCompileInputs.cache
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.sourcelink.json
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.dll
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\refint\FindShortestLine.dll
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.pdb
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\FindShortestLine.genruntimeconfig.cache
+D:\Users\stu-ipsp122\source\repos\exam\app\FindShortestLine\FindShortestLine\obj\Debug\net10.0\ref\FindShortestLine.dll
