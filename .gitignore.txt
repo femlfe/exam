@@ -1,0 +1,26 @@
+# Бинарные файлы и результаты сборки
+[Bb]in
+[Oo]bj
+[Dd]ebug
+[Rr]elease
+x64
+x86
+
+# Файлы пользователя и кэша
+.vs
+.user
+.suo
+
+# Файлы пакетов NuGet
+packages
+
+# Файлы окружения
+.env
+
+# Служебные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Файлы зависимостей
+[Pp]ackages
+[Pp]ackagesbuild
